@@ -59,7 +59,7 @@ img{
     gap: 16px;
 }
 
-.links, .header .left-side p {
+.links, .headerLogo {
     padding-bottom: 70px;
 }
 
